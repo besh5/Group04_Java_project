@@ -1,4 +1,4 @@
-package myPackage;
+package amanturAsh;
 
 public class FirstTestClass {
 
