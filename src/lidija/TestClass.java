@@ -1,3 +1,5 @@
+package lidija;
+
 public class TestClass {
 
 public class TestClass1 {
