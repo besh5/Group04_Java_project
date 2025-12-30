@@ -2,7 +2,7 @@ package lidija;
 
 public class TestClass {
 
-public class TestClass1 {
+
 
     public static void main(String[] args) {
         System.out.println("Hello World");
@@ -10,4 +10,4 @@ public class TestClass1 {
 
 
 }
-}
+
